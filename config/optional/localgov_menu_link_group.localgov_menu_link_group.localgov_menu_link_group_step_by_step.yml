@@ -3,7 +3,7 @@ status: true
 dependencies:
   enforced:
     module:
-    - localgov_services
+    - localgov_step_by_step
     - localgov_menu_link_group
 id: localgov_menu_link_group_step_by_step
 group_label: 'Step by Step'
